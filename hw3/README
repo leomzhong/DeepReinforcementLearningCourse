@@ -1,5 +1,7 @@
 See http://rll.berkeley.edu/deeprlcourse/docs/hw3.pdf for instructions
 
-The starter code was based on an implementation of Q-learning for Atari
-generously provided by Szymon Sidor from OpenAI
+Implemented a simple DQN for Pong game.
 
+Starter code was provided based on an implementation of Q-learning for Atari
+generously provided by Szymon Sidor from OpenAI. Any code I wrote is under the
+section of "YOUR CODE HERE" in "dqn.py" file.

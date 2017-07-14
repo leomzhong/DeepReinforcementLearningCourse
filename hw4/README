@@ -1,0 +1,4 @@
+Implemented a vanilla policy gradient method for Pendulum-v0 with continous
+action space.
+
+All code is under "main.py"
